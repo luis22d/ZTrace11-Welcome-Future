@@ -4,6 +4,9 @@ ZTrace 11 is Continuation of the zerotrace.
 ![image](https://github.com/user-attachments/assets/7bc8627a-4c25-4cc6-ad30-03b725c14fa2)
 
 
+# If you suspect any bugs / glitches don't forget to open up issues, so we can look up and fix them.
+
+
 <p align="center">
   <em>ZTrace Stealer 11</em>
 </p>
