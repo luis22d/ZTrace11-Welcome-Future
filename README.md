@@ -222,3 +222,4 @@ Custom client creation with configurable:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Disclaimer
+This tool is intended for legitimate system administration and security research only. Users are responsible for ensuring compliance with applicable laws and regulations.
