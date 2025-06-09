@@ -6,7 +6,7 @@ ZTrace 11 is Continuation of the zerotrace.
 
 # If you suspect any bugs / glitches don't forget to open up issues, so we can look up and fix them.
 
-Contact TG : https://t.me/ZeroTraceOfficial
+Contact TG : https://t.me/ZeroTraceDevOfficial
 
 <p align="center">
   <em>ZTrace Stealer 11</em>
