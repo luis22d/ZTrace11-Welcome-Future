@@ -2783,7 +2783,7 @@
             this.label91.Name = "label91";
             this.label91.Size = new System.Drawing.Size(214, 16);
             this.label91.TabIndex = 35;
-            this.label91.Text = "Developer Telegram : @NeverTrace";
+            this.label91.Text = "Developer Telegram : @ZeroTraceDevOfficial";
             // 
             // label75
             // 
